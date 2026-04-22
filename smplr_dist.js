@@ -1,0 +1,1 @@
+Redirecting to /smplr@0.20.0/dist/index.mjs
